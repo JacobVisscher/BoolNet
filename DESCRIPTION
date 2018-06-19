@@ -1,7 +1,7 @@
 Package: BoolNet
 Type: Package
 Title: Construction, Simulation and Analysis of Boolean Networks
-Version: 2.1.3
+Version: 2.1.30
 Date: 2016-06-21
 Authors@R: c(person("Christoph", "Müssel", role = "aut"),
              person("Martin", "Hopfensitz", role = "aut"),
